@@ -1,0 +1,106 @@
+smallparse katterna
+read new pgf
+read new pgf, 0.140009
+parsing
+[(("1","katterna ."),2,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EApp (EFun UttNP) (EFun Object)) (EApp (EApp (EApp (EFun DetCN) (EFun Object)) (EApp (EApp (EApp (EFun DetQuant) (EFun Object)) (EApp (EFun QuantObj) (EFun DefArt))) (EFun NumPl))) (EApp (EFun UseN) (EFun cat_N))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! 1578457212
+parse trees [(("1","katterna ."),2,Right ("usermap0/tmptreep1578457212.svg","usermap0/tmptreea1578457212.svg"))]
+Parsing for user usermap0took 0.65204 seconds 
+try to reparse katterna .
+got 2
+have made a random number! 270322445
+have made a random number! 1601116861
+have reparsed, got 2 trees
+smallparse katterna
+read new pgf
+read new pgf, 0.136008
+parsing
+[(("1","katterna ."),2,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EApp (EFun UttNP) (EFun Object)) (EApp (EApp (EApp (EFun DetCN) (EFun Object)) (EApp (EApp (EApp (EFun DetQuant) (EFun Object)) (EApp (EFun QuantObj) (EFun DefArt))) (EFun NumPl))) (EApp (EFun UseN) (EFun cat_N))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! -926070488
+parse trees [(("1","katterna ."),2,Right ("usermap0/tmptreep-926070488.svg","usermap0/tmptreea-926070488.svg"))]
+Parsing for user usermap0took 0.572035 seconds 
+smallparse katterna
+read new pgf
+read new pgf, 0.132008
+parsing
+[(("1","katterna ."),2,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EApp (EFun UttNP) (EFun Object)) (EApp (EApp (EApp (EFun DetCN) (EFun Object)) (EApp (EApp (EApp (EFun DetQuant) (EFun Object)) (EApp (EFun QuantObj) (EFun DefArt))) (EFun NumPl))) (EApp (EFun UseN) (EFun cat_N))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! 1092985278
+parse trees [(("1","katterna ."),2,Right ("usermap0/tmptreep1092985278.svg","usermap0/tmptreea1092985278.svg"))]
+Parsing for user usermap0took 0.584036 seconds 
+smallparse johan sover inte
+read new pgf
+read new pgf, 0.136009
+parsing
+[(("1","johan sover inte ."),2,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EFun UttS) (EApp (EApp (EFun PredVPS) (EApp (EApp (EFun UsePN) (EFun Subject)) (EFun johan_PN))) (EApp (EApp (EApp (EFun MkVPS) (EApp (EApp (EFun TTAnt) (EFun TPres)) (EFun ASimul))) (EFun PNeg)) (EApp (EFun UseV) (EFun sleep_V)))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! -1873535244
+parse trees [(("1","johan sover inte ."),2,Right ("usermap0/tmptreep-1873535244.svg","usermap0/tmptreea-1873535244.svg"))]
+Parsing for user usermap0took 0.420027 seconds 
+try to reparse johan sover inte .
+got 2
+have made a random number! 552780823
+have made a random number! -962479749
+have reparsed, got 2 trees
+try to reparse johan sover inte .
+got 2
+have made a random number! -1601681145
+have made a random number! -972916371
+have reparsed, got 2 trees
+smallparse johan sover inte
+read new pgf
+read new pgf, 0.132009
+parsing
+[(("1","johan sover inte ."),2,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EFun UttS) (EApp (EApp (EFun PredVPS) (EApp (EApp (EFun UsePN) (EFun Subject)) (EFun johan_PN))) (EApp (EApp (EApp (EFun MkVPS) (EApp (EApp (EFun TTAnt) (EFun TPres)) (EFun ASimul))) (EFun PNeg)) (EApp (EFun UseV) (EFun sleep_V)))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! -757195379
+parse trees [(("1","johan sover inte ."),2,Right ("usermap0/tmptreep-757195379.svg","usermap0/tmptreea-757195379.svg"))]
+Parsing for user usermap0took 0.420027 seconds 
+try to reparse johan sover inte .
+got 2
+have made a random number! 690810000
+have made a random number! 259247038
+have reparsed, got 2 trees
+smallparse katten
+read new pgf
+read new pgf, 0.140009
+parsing
+[(("1","katten ."),2,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EApp (EFun UttNP) (EFun Object)) (EApp (EApp (EApp (EFun DetCN) (EFun Object)) (EApp (EApp (EApp (EFun DetQuant) (EFun Object)) (EApp (EFun QuantObj) (EFun DefArt))) (EFun NumSg))) (EApp (EFun UseN) (EFun cat_N))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! -1841167181
+parse trees [(("1","katten ."),2,Right ("usermap0/tmptreep-1841167181.svg","usermap0/tmptreea-1841167181.svg"))]
+Parsing for user usermap0took 0.572036 seconds 
+try to reparse katten .
+got 2
+have made a random number! 1911727980
+have made a random number! 579694587
+have reparsed, got 2 trees
+smallparse katten
+read new pgf
+read new pgf, 0.132008
+parsing
+[(("1","katten ."),2,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EApp (EFun UttNP) (EFun Object)) (EApp (EApp (EApp (EFun DetCN) (EFun Object)) (EApp (EApp (EApp (EFun DetQuant) (EFun Object)) (EApp (EFun QuantObj) (EFun DefArt))) (EFun NumSg))) (EApp (EFun UseN) (EFun cat_N))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! -1897416853
+parse trees [(("1","katten ."),2,Right ("usermap0/tmptreep-1897416853.svg","usermap0/tmptreea-1897416853.svg"))]
+Parsing for user usermap0took 0.544034 seconds 
+smallparse inte vet du att jag vill sova
+read new pgf
+read new pgf, 0.604038
+parsing
+[(("1","inte vet du att jag vill sova ."),6,Right (EApp (EApp (EFun TFullStop) (EApp (EApp (EApp (EFun PhrUtt) (EFun NoPConj)) (EApp (EApp (EApp (EFun UseTop) (EApp (EApp (EFun TTAnt) (EFun TPres)) (EFun ASimul))) (EFun PPos)) (EApp (EFun TopNeg) (EApp (EApp (EFun PredVP) (EApp (EApp (EFun UsePron) (EFun Subject)) (EApp (EFun PronSub) (EFun youSg_Pron)))) (EApp (EApp (EFun ComplVS) (EFun know_VS)) (EApp (EApp (EFun PredVPS) (EApp (EApp (EFun UsePron) (EFun Subject)) (EApp (EFun PronSub) (EFun i_Pron)))) (EApp (EApp (EApp (EFun MkVPS) (EApp (EApp (EFun TTAnt) (EFun TPres)) (EFun ASimul))) (EFun PPos)) (EApp (EApp (EFun ComplBareVV) (EFun want_VV)) (EApp (EFun UseV) (EFun sleep_V)))))))))) (EFun NoVoc))) (EFun TEmpty)))]
+creates png files
+have made a random number! -950235422
+parse trees [(("1","inte vet du att jag vill sova ."),6,Right ("usermap0/tmptreep-950235422.svg","usermap0/tmptreea-950235422.svg"))]
+Parsing for user usermap0took 1.608101 seconds 
+try to reparse inte vet du att jag vill sova .
+got 6
+have made a random number! -513208191
+have made a random number! 627163139
+have made a random number! -1933641064
+have made a random number! 293063437
+have made a random number! -201968668
+have made a random number! 1615356670
+have reparsed, got 6 trees
