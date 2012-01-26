@@ -1,0 +1,53 @@
+name: webpage
+version: 0.1
+license: LGPL
+author: Malin Ahlberg
+maintainer: ahlberg.malin@gmail.com
+synopsis: webpage for the swedish project 
+category: Web
+stability: Experimental
+cabal-version: >= 1.6
+build-type: Simple
+homepage: github.com/MalinAhlberg/TheTrueWebsite 
+
+-- Extra files to be distributed with the package, such as examples or
+-- a README.
+-- Extra-source-files:  
+
+-- Constraint on the version of Cabal needed to build this package.
+Cabal-version:       >=1.2
+
+
+Library
+     Build-depends: base >= 4 && < 5, 
+                    mtl,
+                    MissingH,
+                    xhtml,
+                    process,
+                    timeit,
+                    filepath,
+                    bytestring,
+                    utf8-string,
+                    blaze-builder,
+                    HTTP,
+                    http-types,
+                    warp,
+                    wai,
+                    containers,
+                    gf,
+                    random,
+                    TrieMap,
+                    deepseq,
+                    safe-globals
+  -- Modules exported by the library.
+     Exposed-modules: Main, ParseLex, MkLex, ReadCommand, Log
+  
+  -- Packages needed in order to build this package.
+  -- Build-depends:       
+
+  -- Modules not exported by this package.
+  -- Other-modules:       
+  
+  -- Extra tools (e.g. alex, hsc2hs, ...) needed to build the source.
+  -- Build-tools:         
+
