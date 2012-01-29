@@ -61,7 +61,7 @@ parseF gr b i req = do
       wb = findbrowser req
  -- liftIO $ logA "" ("pathinfo: "++show (pathInfo req))
  -- liftIO $ logA "" ("picturetype: "++wb)
-  liftIO $ logA "" ("all requst: "++show req)
+  --liftIO $ logA "" ("all requst: "++show req) -- don't do this at Johan's computer
   x <- liftIO $ findText gr req mn b i wb
   liftIO $ L.log "have returned"
   return x
