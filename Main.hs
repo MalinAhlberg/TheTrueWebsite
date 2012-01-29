@@ -56,7 +56,7 @@ operate gr bool mvar req = liftIO $ Exc.catch  (parseF gr bool mvar req) handler
 
 parseF :: MonadIO m => ParseData -> Bool -> MVar Int -> Request -> m Response
 parseF gr b i req = do
-  liftIO $ L.log $ "new start" ++show req
+  --liftIO $ L.log $ "new start" ++show req
   let mn = queryString req
       wb = findbrowser req
  -- liftIO $ logA "" ("pathinfo: "++show (pathInfo req))
