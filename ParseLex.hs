@@ -157,7 +157,7 @@ langOld  = fromJust $ readLanguage "BigSwe"
 --reusedLang :: Language
 --reusedLang = read "BigParseSwe"
 
-pgfBackUp = "../gf/BigTest.pgf"
+pgfBackUp = "BigTest.pgf" --- obs! change this when using for real
 langBackUp :: Language
 langBackUp = read "BigTestSwe"
 
